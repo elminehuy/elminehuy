@@ -6,6 +6,6 @@
 
 <<elminehuy>ElMinehuy> hello
 
-<<elminehuy>ElMinehuy> `\give @a 64 minecraft:greetings`
+<<elminehuy>ElMinehuy> `\give @a greetings 64`
 
 <<elminehuy>ElMinehuy> im basically a guy who likes games, design, and some obscure stuff, you can find me on [@elminehuy](https://twitter.com/elminehuy) at Twitter.
