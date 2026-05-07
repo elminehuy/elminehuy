@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="a banner" src="https://github.com/user-attachments/assets/f7261705-ac62-45df-a652-0133ab7f905f" />
+<img width="1500" height="500" alt="a banner" src="https://github.com/user-attachments/assets/bc5404a8-3516-4878-b39f-d17e8cee9b70" />
 
 
 
@@ -6,6 +6,6 @@
 
 <<elminehuy>ElMinehuy> hello
 
-<<elminehuy>ElMinehuy> `\give @a greetings 64`
+<<elminehuy>ElMinehuy> `\give @a hugs 64`
 
-<<elminehuy>ElMinehuy> im basically a guy who likes games, design, and some obscure stuff, you can find me on [@elminehuy](https://twitter.com/elminehuy) at Twitter.
+<<elminehuy>ElMinehuy> im a guy who likes games, design (#BringBackTwitter), and some obscure stuff, you can find me on [@elminehuy](https://twitter.com/elminehuy) at Twitter.
